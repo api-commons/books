@@ -24,6 +24,16 @@ extended tier and the long tail of every concept are in [profile.yml](profile.ym
 
 - A book agrees only on an id and a title. ISBN, authors, publisher and publication date are each carried by a minority: Google Books nests them under `volumeInfo`, library systems model titles as holdings, and retailers as products.
 
+## Measured against the standard
+
+The census reads what providers publish. Where the domain has a standard, the standard's own
+definition is read as one more voice: how much of the measured core it defines, and what it
+defines that no provider in the cohort publishes. Crosswalks are in [standards/](standards).
+
+| Standard | Concept | Core defined by the standard | Fields only the standard has |
+| --- | --- | ---: | ---: |
+| [schemaorg-30.1](https://github.com/schemaorg/schemaorg/tree/v30.1) | `book` | 50% | 120 |
+
 ## Artifacts
 
 - [openapi.yml](openapi.yml) -- OpenAPI 3.1 of the shared operations. No one serves it; it

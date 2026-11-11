@@ -45,3 +45,6 @@ decisions:
   - "Titles, volumes, editions, ebooks, audiobooks and works beneath a library path are books."
   - "Authors were measured and dropped."
   - "Duplicates merged: the eventwren family."
+standards:
+  - standard: schemaorg-30.1
+    concepts: {book: [Book]}
