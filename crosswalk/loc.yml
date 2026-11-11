@@ -1,0 +1,20 @@
+provider: loc
+apis_io: https://apis.io/providers/loc/
+context: books
+generated: '2026-11-11'
+concepts:
+  book:
+    path_segment:
+    - titles
+    - books
+    properties:
+      id: id
+      name: title
+      description: description
+      language: language
+      subjects: subject
+      type: type
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/loc-congress-gov-openapi.yml#GET /bill/{congress}/{billType}/{billNumber}/titles
+    - openapi/_original/loc-loc-gov-json-api-openapi.yml#GET /books/

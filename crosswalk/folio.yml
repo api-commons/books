@@ -1,0 +1,20 @@
+provider: folio
+apis_io: https://apis.io/providers/folio/
+context: books
+generated: '2026-11-11'
+concepts:
+  book:
+    path_segment:
+    - titles
+    properties:
+      id: id
+      name: name
+      description: description
+      type: type
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/folio-mod-agreements-openapi.json#GET /erm/titles
+    - openapi/_original/folio-mod-agreements-openapi.json#GET /erm/titles/{titleId}
+    - openapi/_original/folio-mod-agreements-openapi.json#PUT /erm/titles/{titleId}
+    - openapi/_original/folio-mod-agreements-openapi.yml#GET /erm/titles
+    - openapi/_original/folio-mod-agreements-openapi.yml#GET /erm/titles/{titleId}

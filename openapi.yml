@@ -1,0 +1,64 @@
+openapi: 3.1.0
+info:
+  title: Books and Publishing (API Commons)
+  version: 0.1.0-draft.20261111
+  description: 'The common Books and Publishing interface, distilled from the harvested OpenAPI of 132 providers
+    in the APIs.io catalog. Not a product: no one serves this API. It is the shape the market already shares, measured,
+    so that providers, agents and integrators can map to one vocabulary. See profile.yml.'
+  license:
+    name: CC BY-NC-SA 4.0
+    url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+paths:
+  /books:
+    get:
+      operationId: listBooks
+      summary: List books
+      tags:
+      - Books
+      x-commons-tier: core
+      x-commons-share: 0.833
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items: &id001
+                  $ref: '#/components/schemas/Book'
+      parameters:
+      - name: limit
+        in: query
+        schema:
+          type: integer
+      - name: cursor
+        in: query
+        schema:
+          type: string
+  /books/{book_id}:
+    parameters:
+    - $ref: '#/components/parameters/book_id'
+    get:
+      operationId: getBook
+      summary: Get a book
+      tags:
+      - Books
+      x-commons-tier: core
+      x-commons-share: 0.667
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: *id001
+components:
+  schemas:
+    Book:
+      $ref: ./schema/book.json
+  parameters:
+    book_id:
+      name: book_id
+      in: path
+      required: true
+      schema:
+        type: string

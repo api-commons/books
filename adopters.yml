@@ -1,0 +1,63 @@
+context: books
+generated: '2026-11-11'
+adopters:
+- provider: elsevier
+  apis_io: https://apis.io/providers/elsevier/
+  crosswalk: crosswalk/elsevier.yml
+  concepts:
+  - book
+- provider: folio
+  apis_io: https://apis.io/providers/folio/
+  crosswalk: crosswalk/folio.yml
+  concepts:
+  - book
+- provider: game-of-thrones
+  apis_io: https://apis.io/providers/game-of-thrones/
+  crosswalk: crosswalk/game-of-thrones.yml
+  concepts:
+  - book
+- provider: google-books
+  apis_io: https://apis.io/providers/google-books/
+  crosswalk: crosswalk/google-books.yml
+  concepts:
+  - book
+- provider: gutendex
+  apis_io: https://apis.io/providers/gutendex/
+  crosswalk: crosswalk/gutendex.yml
+  concepts:
+  - book
+- provider: iit-kanpur
+  apis_io: https://apis.io/providers/iit-kanpur/
+  crosswalk: crosswalk/iit-kanpur.yml
+  concepts:
+  - book
+- provider: isbndb
+  apis_io: https://apis.io/providers/isbndb/
+  crosswalk: crosswalk/isbndb.yml
+  concepts:
+  - book
+- provider: loc
+  apis_io: https://apis.io/providers/loc/
+  crosswalk: crosswalk/loc.yml
+  concepts:
+  - book
+- provider: open-library
+  apis_io: https://apis.io/providers/open-library/
+  crosswalk: crosswalk/open-library.yml
+  concepts:
+  - book
+- provider: trove
+  apis_io: https://apis.io/providers/trove/
+  crosswalk: crosswalk/trove.yml
+  concepts:
+  - book
+- provider: university-of-helsinki
+  apis_io: https://apis.io/providers/university-of-helsinki/
+  crosswalk: crosswalk/university-of-helsinki.yml
+  concepts:
+  - book
+- provider: urantia-papers
+  apis_io: https://apis.io/providers/urantia-papers/
+  crosswalk: crosswalk/urantia-papers.yml
+  concepts:
+  - book

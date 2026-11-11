@@ -1,0 +1,15 @@
+provider: google-books
+apis_io: https://apis.io/providers/google-books/
+context: books
+generated: '2026-11-11'
+concepts:
+  book:
+    path_segment:
+    - volumes
+    properties:
+      id: id
+    core_coverage: 0.5
+    evidence:
+    - openapi/_original/books.yml#GET /users/{userId}/bookshelves/{shelf}/volumes
+    - openapi/_original/books.yml#GET /volumes
+    - openapi/_original/books.yml#GET /volumes/{volumeId}

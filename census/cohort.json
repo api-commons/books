@@ -1,0 +1,1306 @@
+[
+ {
+  "slug": "aalto",
+  "specs": [
+   "openapi/_original/aalto-acris-research-api-openapi.json",
+   "openapi/_original/aalto-facilities-api-openapi.json",
+   "openapi/_original/aalto-openapi.json",
+   "openapi/_original/aalto-people-profile-api-openapi.json",
+   "openapi/_original/aalto-projects-costcenters-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "acast",
+  "specs": [
+   "openapi/_original/acast-openapi.yml"
+  ]
+ },
+ {
+  "slug": "agorapulse",
+  "specs": [
+   "openapi/_original/agorapulse-open-api-openapi.yml",
+   "openapi/_original/agorapulse-openapi.yml"
+  ]
+ },
+ {
+  "slug": "al-farabi-kazakh-national-university",
+  "specs": [
+   "openapi/_original/al-farabi-kazakh-national-university-open-edx.yaml"
+  ]
+ },
+ {
+  "slug": "api-league",
+  "specs": [
+   "openapi/_original/api-league-art-openapi.yml",
+   "openapi/_original/api-league-books-openapi.yml",
+   "openapi/_original/api-league-food-openapi.yml",
+   "openapi/_original/api-league-games-openapi.yml",
+   "openapi/_original/api-league-humor-openapi.yml",
+   "openapi/_original/api-league-knowledge-openapi.yml",
+   "openapi/_original/api-league-math-openapi.yml",
+   "openapi/_original/api-league-media-openapi.yml",
+   "openapi/_original/api-league-news-openapi.yml",
+   "openapi/_original/api-league-openapi.json",
+   "openapi/_original/api-league-storage-openapi.yml",
+   "openapi/_original/api-league-text-openapi.yml",
+   "openapi/_original/api-league-web-openapi.yml"
+  ]
+ },
+ {
+  "slug": "apple-music",
+  "specs": [
+   "openapi/_original/apple-music-openapi.yml"
+  ]
+ },
+ {
+  "slug": "automattic",
+  "specs": [
+   "openapi/_original/automattic-akismet-openapi.yml",
+   "openapi/_original/automattic-jetpack-ai-plugin-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "beehiiv",
+  "specs": [
+   "openapi/_original/beehiiv-oauth2-api-openapi.yml",
+   "openapi/_original/beehiiv-oauth2-openapi.json",
+   "openapi/_original/beehiiv-openapi.yml",
+   "openapi/_original/beehiiv-webhook-events-openapi.yml",
+   "openapi/_original/beehiiv-webhooks-openapi.json"
+  ]
+ },
+ {
+  "slug": "blotato",
+  "specs": [
+   "openapi/_original/blotato-openapi.yml"
+  ]
+ },
+ {
+  "slug": "blubrry-api-restful-api-for-podcast-publishing-statistics",
+  "specs": [
+   "openapi/_original/blubrry-api-restful-api-for-podcast-publishing-statistics-openapi.yml",
+   "openapi/_original/blubrry-api-restful-api-for-podcast-publishing-statistics-podcaster-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "chalmers-university-of-technology",
+  "specs": [
+   "openapi/_original/chalmers-university-of-technology-research-api.yaml"
+  ]
+ },
+ {
+  "slug": "chinese-narrative-chapter-lock",
+  "specs": [
+   "openapi/_original/chinese-narrative-chapter-lock-openapi.json"
+  ]
+ },
+ {
+  "slug": "chulalongkorn",
+  "specs": [
+   "openapi/_original/chulalongkorn-course-schedule-openapi.yml",
+   "openapi/_original/chulalongkorn-course-schedule-openapi_2.yml",
+   "openapi/_original/chulalongkorn-openapi.json"
+  ]
+ },
+ {
+  "slug": "columbia",
+  "specs": [
+   "openapi/_original/columbia-library-hours-openapi.yml"
+  ]
+ },
+ {
+  "slug": "comunicate-top-api",
+  "specs": [
+   "openapi/_original/comunicate-top-api-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "convertapi",
+  "specs": [
+   "openapi/_original/openapi.json"
+  ]
+ },
+ {
+  "slug": "cornell",
+  "specs": [
+   "openapi/_original/cornell-codi-classes.yaml"
+  ]
+ },
+ {
+  "slug": "covatic",
+  "specs": [
+   "openapi/_original/covatic-audience-builder-openapi.json",
+   "openapi/_original/covatic-audience-builder-openapi.yml"
+  ]
+ },
+ {
+  "slug": "dev-to",
+  "specs": [
+   "openapi/_original/dev-to-forem-api-openapi.yml",
+   "openapi/_original/dev-to-forem-api-v1-openapi.json",
+   "openapi/_original/devto-agent-sessions-api-openapi.yml",
+   "openapi/_original/devto-articles-api-openapi.yml",
+   "openapi/_original/devto-billboards-api-openapi.yml",
+   "openapi/_original/devto-comments-api-openapi.yml",
+   "openapi/_original/devto-followed-tags-api-openapi.yml",
+   "openapi/_original/devto-followers-api-openapi.yml",
+   "openapi/_original/devto-organizations-api-openapi.yml",
+   "openapi/_original/devto-pages-api-openapi.yml",
+   "openapi/_original/devto-podcast-episodes-api-openapi.yml",
+   "openapi/_original/devto-profile-images-api-openapi.yml",
+   "openapi/_original/devto-reactions-api-openapi.yml",
+   "openapi/_original/devto-reading-list-api-openapi.yml",
+   "openapi/_original/devto-segments-api-openapi.yml",
+   "openapi/_original/devto-surveys-api-openapi.yml",
+   "openapi/_original/devto-tags-api-openapi.yml",
+   "openapi/_original/devto-trends-api-openapi.yml",
+   "openapi/_original/devto-users-api-openapi.yml",
+   "openapi/_original/devto-videos-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "disqus",
+  "specs": [
+   "openapi/_original/disqus-openapi.yml"
+  ]
+ },
+ {
+  "slug": "dow-jones",
+  "specs": [
+   "openapi/_original/dow-jones-advanced-screening-and-monitoring-api-openapi.json",
+   "openapi/_original/dow-jones-calendar-live-api-openapi.json",
+   "openapi/_original/dow-jones-company-news-radar-api-openapi.json",
+   "openapi/_original/dow-jones-content-api-swagger.json",
+   "openapi/_original/dow-jones-due-diligence-reports-api-openapi.json",
+   "openapi/_original/dow-jones-newsletters-api-openapi.json",
+   "openapi/_original/dow-jones-newswires-content-api-openapi.json",
+   "openapi/_original/dow-jones-newswires-real-time-api-openapi.json",
+   "openapi/_original/dow-jones-profile-version-history-api-openapi.json",
+   "openapi/_original/dow-jones-risk-profiles-api-openapi.json",
+   "openapi/_original/dow-jones-risk-search-api-openapi.json",
+   "openapi/_original/dow-jones-risk-taxonomy-api-openapi.json",
+   "openapi/_original/dow-jones-riskcenter-third-party-api-0-1-openapi.json",
+   "openapi/_original/dow-jones-riskcenter-third-party-api-0-2-openapi.json",
+   "openapi/_original/dow-jones-screening-and-monitoring-api-openapi.json",
+   "openapi/_original/dow-jones-screening-and-monitoring-private-lists-api-openapi.json",
+   "openapi/_original/dow-jones-top-stories-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "dpla",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "drupal",
+  "specs": [
+   "openapi/_original/drupal-jsonapi-openapi.yml",
+   "openapi/_original/drupal-rest-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "elsevier",
+  "specs": [
+   "openapi/_original/elsevier-engineering-village-swagger.json",
+   "openapi/_original/elsevier-metadata-swagger.json",
+   "openapi/_original/elsevier-openapi.yml",
+   "openapi/_original/elsevier-retrieval-swagger.json",
+   "openapi/_original/elsevier-sciencedirect-swagger.json",
+   "openapi/_original/elsevier-scival-swagger.json",
+   "openapi/_original/elsevier-scopus-swagger.json",
+   "openapi/_original/elsevier-search-swagger.json"
+  ]
+ },
+ {
+  "slug": "emory",
+  "specs": [
+   "openapi/_original/emory-digital-slide-archive.yaml"
+  ]
+ },
+ {
+  "slug": "eth-zurich",
+  "specs": [
+   "openapi/_original/eth-zurich-discovery.yaml",
+   "openapi/_original/eth-zurich-ethorama.yaml",
+   "openapi/_original/eth-zurich-firecrest-v2.json",
+   "openapi/_original/eth-zurich-geo.yaml",
+   "openapi/_original/eth-zurich-persons.yaml",
+   "openapi/_original/eth-zurich-research-collection-v1.yaml",
+   "openapi/_original/eth-zurich-research-collection-v2.yaml",
+   "openapi/_original/eth-zurich-vector.yaml"
+  ]
+ },
+ {
+  "slug": "europeana",
+  "specs": [
+   "openapi/_original/europeana-openapi.yml"
+  ]
+ },
+ {
+  "slug": "eventwren",
+  "specs": [
+   "openapi/_original/eventwren-openapi-original.yml",
+   "openapi/_original/eventwren-openapi.yml",
+   "openapi/_original/eventwren-openapi_2.yml",
+   "openapi/_original/eventwren-openapi_3.yml"
+  ]
+ },
+ {
+  "slug": "folio",
+  "specs": [
+   "openapi/_original/folio-edge-caiasoft-openapi.json",
+   "openapi/_original/folio-edge-caiasoft-openapi.yml",
+   "openapi/_original/folio-edge-courses-openapi.json",
+   "openapi/_original/folio-edge-courses-openapi.yml",
+   "openapi/_original/folio-edge-dcb-openapi.json",
+   "openapi/_original/folio-edge-dcb-openapi.yml",
+   "openapi/_original/folio-edge-dematic-openapi.json",
+   "openapi/_original/folio-edge-dematic-openapi.yml",
+   "openapi/_original/folio-edge-erm-openapi.json",
+   "openapi/_original/folio-edge-erm-openapi.yml",
+   "openapi/_original/folio-edge-fqm-openapi.json",
+   "openapi/_original/folio-edge-fqm-openapi.yml",
+   "openapi/_original/folio-edge-ill-openapi.json",
+   "openapi/_original/folio-edge-ill-openapi.yml",
+   "openapi/_original/folio-edge-inn-reach-openapi.json",
+   "openapi/_original/folio-edge-inn-reach-openapi.yml",
+   "openapi/_original/folio-edge-inventory-openapi.json",
+   "openapi/_original/folio-edge-inventory-openapi.yml",
+   "openapi/_original/folio-edge-rtac-openapi.json",
+   "openapi/_original/folio-edge-rtac-openapi.yml",
+   "openapi/_original/folio-edge-users-openapi.json",
+   "openapi/_original/folio-edge-users-openapi.yml",
+   "openapi/_original/folio-folio-query-tool-metadata-querytool-openapi.json",
+   "openapi/_original/folio-folio-query-tool-metadata-querytool-openapi.yml",
+   "openapi/_original/folio-folio-spring-support-tenant-openapi.json",
+   "openapi/_original/folio-folio-spring-support-tenant-openapi.yml",
+   "openapi/_original/folio-folio-vertx-lib-tenant-2-0-openapi.json",
+   "openapi/_original/folio-folio-vertx-lib-tenant-2-0-openapi.yml",
+   "openapi/_original/folio-mgr-applications-am-openapi.json",
+   "openapi/_original/folio-mgr-applications-am-openapi.yml",
+   "openapi/_original/folio-mgr-tenant-entitlements-openapi.json",
+   "openapi/_original/folio-mgr-tenant-entitlements-openapi.yml",
+   "openapi/_original/folio-mgr-tenants-openapi.json",
+   "openapi/_original/folio-mgr-tenants-openapi.yml",
+   "openapi/_original/folio-mod-agreements-openapi.json",
+   "openapi/_original/folio-mod-agreements-openapi.yml",
+   "openapi/_original/folio-mod-authtoken-token-1-0-openapi.json",
+   "openapi/_original/folio-mod-authtoken-token-1-0-openapi.yml",
+   "openapi/_original/folio-mod-batch-print-batchprint-openapi.json",
+   "openapi/_original/folio-mod-batch-print-batchprint-openapi.yml",
+   "openapi/_original/folio-mod-bulk-operations-openapi.json",
+   "openapi/_original/folio-mod-bulk-operations-openapi.yml",
+   "openapi/_original/folio-mod-calendar-openapi.json",
+   "openapi/_original/folio-mod-calendar-openapi.yml",
+   "openapi/_original/folio-mod-camunda-openapi-openapi.json",
+   "openapi/_original/folio-mod-camunda-openapi-openapi.yml",
+   "openapi/_original/folio-mod-circulation-bff-circulationbff-openapi.json",
+   "openapi/_original/folio-mod-circulation-bff-circulationbff-openapi.yml",
+   "openapi/_original/folio-mod-circulation-item-openapi.json",
+   "openapi/_original/folio-mod-circulation-item-openapi.yml",
+   "openapi/_original/folio-mod-consortia-consortia-configuration-openapi.json",
+   "openapi/_original/folio-mod-consortia-consortia-configuration-openapi.yml",
+   "openapi/_original/folio-mod-consortia-kafka-message-schemas-openapi.json",
+   "openapi/_original/folio-mod-consortia-kafka-message-schemas-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-consortia-configuration-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-consortia-configuration-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-consortia-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-consortia-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-kafka-message-schemas-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-kafka-message-schemas-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-publications-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-publications-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-self-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-self-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-sharing-instances-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-sharing-instances-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-sharing-policies-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-sharing-policies-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-sharing-roles-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-sharing-roles-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-sharing-settings-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-sharing-settings-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-tenants-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-tenants-openapi.yml",
+   "openapi/_original/folio-mod-consortia-keycloak-user-tenants-openapi.json",
+   "openapi/_original/folio-mod-consortia-keycloak-user-tenants-openapi.yml",
+   "openapi/_original/folio-mod-consortia-openapi.json",
+   "openapi/_original/folio-mod-consortia-openapi.yml",
+   "openapi/_original/folio-mod-consortia-publications-openapi.json",
+   "openapi/_original/folio-mod-consortia-publications-openapi.yml",
+   "openapi/_original/folio-mod-consortia-self-openapi.json",
+   "openapi/_original/folio-mod-consortia-self-openapi.yml",
+   "openapi/_original/folio-mod-consortia-sharing-instances-openapi.json",
+   "openapi/_original/folio-mod-consortia-sharing-instances-openapi.yml",
+   "openapi/_original/folio-mod-consortia-sharing-settings-openapi.json",
+   "openapi/_original/folio-mod-consortia-sharing-settings-openapi.yml",
+   "openapi/_original/folio-mod-consortia-tenants-openapi.json",
+   "openapi/_original/folio-mod-consortia-tenants-openapi.yml",
+   "openapi/_original/folio-mod-consortia-user-tenants-openapi.json",
+   "openapi/_original/folio-mod-consortia-user-tenants-openapi.yml",
+   "openapi/_original/folio-mod-data-export-openapi.json",
+   "openapi/_original/folio-mod-data-export-openapi.yml",
+   "openapi/_original/folio-mod-data-export-spring-export-configs-openapi.json",
+   "openapi/_original/folio-mod-data-export-spring-export-configs-openapi.yml",
+   "openapi/_original/folio-mod-data-export-spring-job-deletion-intervals-openapi.json",
+   "openapi/_original/folio-mod-data-export-spring-job-deletion-intervals-openapi.yml",
+   "openapi/_original/folio-mod-data-export-spring-jobs-openapi.json",
+   "openapi/_original/folio-mod-data-export-spring-jobs-openapi.yml",
+   "openapi/_original/folio-mod-data-export-worker-authority-control-openapi.json",
+   "openapi/_original/folio-mod-data-export-worker-authority-control-openapi.yml",
+   "openapi/_original/folio-mod-data-export-worker-bursar-export-openapi.json",
+   "openapi/_original/folio-mod-data-export-worker-bursar-export-openapi.yml",
+   "openapi/_original/folio-mod-data-export-worker-circulation-log-openapi.json",
+   "openapi/_original/folio-mod-data-export-worker-circulation-log-openapi.yml",
+   "openapi/_original/folio-mod-data-export-worker-e-holdings-openapi.json",
+   "openapi/_original/folio-mod-data-export-worker-e-holdings-openapi.yml",
+   "openapi/_original/folio-mod-data-export-worker-email-openapi.json",
+   "openapi/_original/folio-mod-data-export-worker-email-openapi.yml",
+   "openapi/_original/folio-mod-data-export-worker-order-export-openapi.json",
+   "openapi/_original/folio-mod-data-export-worker-order-export-openapi.yml",
+   "openapi/_original/folio-mod-data-export-worker-refresh-presigned-url-openapi.json",
+   "openapi/_original/folio-mod-data-export-worker-refresh-presigned-url-openapi.yml",
+   "openapi/_original/folio-mod-dcb-dcb-transaction-openapi.json",
+   "openapi/_original/folio-mod-dcb-dcb-transaction-openapi.yml",
+   "openapi/_original/folio-mod-ebsconet-openapi.json",
+   "openapi/_original/folio-mod-ebsconet-openapi.yml",
+   "openapi/_original/folio-mod-entities-links-openapi.json",
+   "openapi/_original/folio-mod-entities-links-openapi.yml",
+   "openapi/_original/folio-mod-entities-links-tenant-settings-openapi.json",
+   "openapi/_original/folio-mod-entities-links-tenant-settings-openapi.yml",
+   "openapi/_original/folio-mod-eusage-reports-eusage-reports-1-0-openapi.json",
+   "openapi/_original/folio-mod-eusage-reports-eusage-reports-1-0-openapi.yml",
+   "openapi/_original/folio-mod-fqm-manager-openapi.json",
+   "openapi/_original/folio-mod-fqm-manager-openapi.yml",
+   "openapi/_original/folio-mod-inn-reach-circulation-openapi.json",
+   "openapi/_original/folio-mod-inn-reach-circulation-openapi.yml",
+   "openapi/_original/folio-mod-inn-reach-contribution-openapi.json",
+   "openapi/_original/folio-mod-inn-reach-contribution-openapi.yml",
+   "openapi/_original/folio-mod-inn-reach-settings-openapi.json",
+   "openapi/_original/folio-mod-inn-reach-settings-openapi.yml",
+   "openapi/_original/folio-mod-inventory-update-inventory-import-1-0-openapi.json",
+   "openapi/_original/folio-mod-inventory-update-inventory-import-1-0-openapi.yml",
+   "openapi/_original/folio-mod-inventory-update-inventory-update-5-0-openapi.json",
+   "openapi/_original/folio-mod-inventory-update-inventory-update-5-0-openapi.yml",
+   "openapi/_original/folio-mod-licenses-openapi.json",
+   "openapi/_original/folio-mod-licenses-openapi.yml",
+   "openapi/_original/folio-mod-linked-data-import-openapi.json",
+   "openapi/_original/folio-mod-linked-data-import-openapi.yml",
+   "openapi/_original/folio-mod-linked-data-openapi.json",
+   "openapi/_original/folio-mod-linked-data-openapi.yml",
+   "openapi/_original/folio-mod-lists-list-openapi.json",
+   "openapi/_original/folio-mod-lists-list-openapi.yml",
+   "openapi/_original/folio-mod-locations-openapi.json",
+   "openapi/_original/folio-mod-locations-openapi.yml",
+   "openapi/_original/folio-mod-login-keycloak-openapi.json",
+   "openapi/_original/folio-mod-login-keycloak-openapi.yml",
+   "openapi/_original/folio-mod-marc-migrations-openapi.json",
+   "openapi/_original/folio-mod-marc-migrations-openapi.yml",
+   "openapi/_original/folio-mod-mosaic-openapi.json",
+   "openapi/_original/folio-mod-mosaic-openapi.yml",
+   "openapi/_original/folio-mod-notes-openapi.json",
+   "openapi/_original/folio-mod-notes-openapi.yml",
+   "openapi/_original/folio-mod-oa-openapi.json",
+   "openapi/_original/folio-mod-oa-openapi.yml",
+   "openapi/_original/folio-mod-okapi-facade-openapi.json",
+   "openapi/_original/folio-mod-okapi-facade-openapi.yml",
+   "openapi/_original/folio-mod-password-validator-openapi.json",
+   "openapi/_original/folio-mod-password-validator-openapi.yml",
+   "openapi/_original/folio-mod-password-validator-validator-registry-openapi.json",
+   "openapi/_original/folio-mod-password-validator-validator-registry-openapi.yml",
+   "openapi/_original/folio-mod-quick-marc-marc-specifications-openapi.json",
+   "openapi/_original/folio-mod-quick-marc-marc-specifications-openapi.yml",
+   "openapi/_original/folio-mod-quick-marc-records-editor-openapi.json",
+   "openapi/_original/folio-mod-quick-marc-records-editor-openapi.yml",
+   "openapi/_original/folio-mod-reading-room-patron-permission-openapi.json",
+   "openapi/_original/folio-mod-reading-room-patron-permission-openapi.yml",
+   "openapi/_original/folio-mod-reading-room-reading-room-openapi.json",
+   "openapi/_original/folio-mod-reading-room-reading-room-openapi.yml",
+   "openapi/_original/folio-mod-record-specifications-openapi.json",
+   "openapi/_original/folio-mod-record-specifications-openapi.yml",
+   "openapi/_original/folio-mod-remote-storage-openapi.json",
+   "openapi/_original/folio-mod-remote-storage-openapi.yml",
+   "openapi/_original/folio-mod-requests-mediated-openapi.json",
+   "openapi/_original/folio-mod-requests-mediated-openapi.yml",
+   "openapi/_original/folio-mod-roles-keycloak-openapi.json",
+   "openapi/_original/folio-mod-roles-keycloak-openapi.yml",
+   "openapi/_original/folio-mod-rtac-cache-openapi.json",
+   "openapi/_original/folio-mod-rtac-cache-openapi.yml",
+   "openapi/_original/folio-mod-scheduler-openapi.json",
+   "openapi/_original/folio-mod-scheduler-openapi.yml",
+   "openapi/_original/folio-mod-search-openapi.json",
+   "openapi/_original/folio-mod-search-openapi.yml",
+   "openapi/_original/folio-mod-serials-management-openapi.json",
+   "openapi/_original/folio-mod-serials-management-openapi.yml",
+   "openapi/_original/folio-mod-settings-openapi.json",
+   "openapi/_original/folio-mod-settings-openapi.yml",
+   "openapi/_original/folio-mod-tags-openapi.json",
+   "openapi/_original/folio-mod-tags-openapi.yml",
+   "openapi/_original/folio-mod-tlr-allowed-service-points-openapi.json",
+   "openapi/_original/folio-mod-tlr-allowed-service-points-openapi.yml",
+   "openapi/_original/folio-mod-tlr-ecs-loans-openapi.json",
+   "openapi/_original/folio-mod-tlr-ecs-loans-openapi.yml",
+   "openapi/_original/folio-mod-tlr-ecs-request-external-openapi.json",
+   "openapi/_original/folio-mod-tlr-ecs-request-external-openapi.yml",
+   "openapi/_original/folio-mod-tlr-ecs-tlr-openapi.json",
+   "openapi/_original/folio-mod-tlr-ecs-tlr-openapi.yml",
+   "openapi/_original/folio-mod-tlr-staff-slips-openapi.json",
+   "openapi/_original/folio-mod-tlr-staff-slips-openapi.yml",
+   "openapi/_original/folio-mod-tlr-tlr-settings-openapi.json",
+   "openapi/_original/folio-mod-tlr-tlr-settings-openapi.yml",
+   "openapi/_original/folio-mod-users-keycloak-openapi.json",
+   "openapi/_original/folio-mod-users-keycloak-openapi.yml",
+   "openapi/_original/folio-mod-workflow-openapi-openapi.json",
+   "openapi/_original/folio-mod-workflow-openapi-openapi.yml"
+  ]
+ },
+ {
+  "slug": "gadjah-mada-university",
+  "specs": [
+   "openapi/_original/gadjah-mada-university-ugm-id-openapi.json"
+  ]
+ },
+ {
+  "slug": "game-of-thrones",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "georgia-institute-of-technology",
+  "specs": [
+   "openapi/_original/georgia-institute-of-technology-gt-places.yaml",
+   "openapi/_original/georgia-institute-of-technology-sums.yaml"
+  ]
+ },
+ {
+  "slug": "ghent",
+  "specs": [
+   "openapi/_original/ghent-oai-service-openapi.yaml",
+   "openapi/_original/ghent-people-service-openapi.yaml",
+   "openapi/_original/ghent-projects-service-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "ghost-org",
+  "specs": [
+   "openapi/_original/ghost-org-admin-api-openapi.yml",
+   "openapi/_original/ghost-org-content-api-openapi.yml",
+   "openapi/_original/ghost-org-openapi.yml"
+  ]
+ },
+ {
+  "slug": "google-blogger",
+  "specs": [
+   "openapi/_original/blogger.yml"
+  ]
+ },
+ {
+  "slug": "google-books",
+  "specs": [
+   "openapi/_original/books.yml"
+  ]
+ },
+ {
+  "slug": "google-play",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "gutendex",
+  "specs": [
+   "openapi/_original/gutendex-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "hagglebee",
+  "specs": [
+   "openapi/_original/hagglebee-openapi.yml",
+   "openapi/_original/hagglebee-openapi_2.yml",
+   "openapi/_original/hagglebee-openapi_3.yml"
+  ]
+ },
+ {
+  "slug": "harvard",
+  "specs": [
+   "openapi/_original/harvard-dataverse-openapi.yml",
+   "openapi/_original/harvard-lil-legal-ed-skills-hub-openapi.yml",
+   "openapi/_original/harvard-lil-legal-ed-skills-hub-openapi_2.yml"
+  ]
+ },
+ {
+  "slug": "hkust",
+  "specs": [
+   "openapi/_original/hkust-path-advisor-openapi.yml",
+   "openapi/_original/hkust-path-advisor-openapi_2.yml"
+  ]
+ },
+ {
+  "slug": "humboldt-universitat-zu-berlin",
+  "specs": [
+   "openapi/_original/humboldt-universitat-zu-berlin-edoc-rest.yaml"
+  ]
+ },
+ {
+  "slug": "ieee",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "iit-kanpur",
+  "specs": [
+   "openapi/_original/iit-kanpur-library-rest.yaml"
+  ]
+ },
+ {
+  "slug": "imperial-college-london",
+  "specs": [
+   "openapi/_original/imperial-college-london-spiral.yaml"
+  ]
+ },
+ {
+  "slug": "isbndb",
+  "specs": [
+   "openapi/_original/openapi-2026-06-13-as-archived.json",
+   "openapi/_original/openapi.json"
+  ]
+ },
+ {
+  "slug": "jeeng",
+  "specs": [
+   "openapi/_original/jeeng-advertisers-openapi.yml",
+   "openapi/_original/jeeng-advertisers.json",
+   "openapi/_original/jeeng-authentication-openapi.yml",
+   "openapi/_original/jeeng-authentication.json",
+   "openapi/_original/jeeng-publishers-openapi.yml",
+   "openapi/_original/jeeng-publishers.json"
+  ]
+ },
+ {
+  "slug": "kortext",
+  "specs": [
+   "openapi/_original/kortext-labs-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "lancaster",
+  "specs": [
+   "openapi/_original/lancaster-eprints-oai.yaml",
+   "openapi/_original/lancaster-idp-saml-metadata.yaml"
+  ]
+ },
+ {
+  "slug": "legendary",
+  "specs": [
+   "openapi/_original/legendary-wp-rest-openapi.yml"
+  ]
+ },
+ {
+  "slug": "library-of-congress",
+  "specs": [
+   "openapi/_original/library-of-congress-chronicling-america-api-openapi.yml",
+   "openapi/_original/library-of-congress-congress-gov-api-openapi.yml",
+   "openapi/_original/library-of-congress-loc-gov-json-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "loc",
+  "specs": [
+   "openapi/_original/library-of-congress-bills-api-openapi.yml",
+   "openapi/_original/library-of-congress-committees-api-openapi.yml",
+   "openapi/_original/library-of-congress-congressional-record-api-openapi.yml",
+   "openapi/_original/library-of-congress-issues-api-openapi.yml",
+   "openapi/_original/library-of-congress-laws-api-openapi.yml",
+   "openapi/_original/library-of-congress-members-api-openapi.yml",
+   "openapi/_original/library-of-congress-pages-api-openapi.yml",
+   "openapi/_original/library-of-congress-resources-api-openapi.yml",
+   "openapi/_original/library-of-congress-titles-api-openapi.yml",
+   "openapi/_original/loc-congress-gov-openapi.yml",
+   "openapi/_original/loc-loc-gov-json-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "lund",
+  "specs": [
+   "openapi/_original/lund-lup-search.yaml"
+  ]
+ },
+ {
+  "slug": "medium",
+  "specs": [
+   "openapi/_original/medium-oauth2-openapi.yml",
+   "openapi/_original/medium-rest-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "misoai",
+  "specs": [
+   "openapi/_original/misoai-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "national-agricultural-library",
+  "specs": [
+   "openapi/_original/national-agricultural-library-openapi.json"
+  ]
+ },
+ {
+  "slug": "national-library-of-medicine",
+  "specs": [
+   "openapi/_original/national-library-of-medicine-openapi.yml"
+  ]
+ },
+ {
+  "slug": "national-university-of-colombia",
+  "specs": [
+   "openapi/_original/national-university-of-colombia-journals-oai.yaml",
+   "openapi/_original/national-university-of-colombia-repository-oai.yaml"
+  ]
+ },
+ {
+  "slug": "new-york-public-library-whats-on-the-menu",
+  "specs": [
+   "openapi/_original/new-york-public-library-whats-on-the-menu-openapi-original.yaml"
+  ]
+ },
+ {
+  "slug": "new-york-times-company",
+  "specs": [
+   "openapi/_original/archive-api-openapi.yml",
+   "openapi/_original/article-search-v2-openapi.yml",
+   "openapi/_original/books-api-openapi.yml",
+   "openapi/_original/community-api-v3-openapi.yml",
+   "openapi/_original/geo-api-v2-openapi.yml",
+   "openapi/_original/most-popular-api-v2-openapi.yml",
+   "openapi/_original/movie-reviews-v2-openapi.yml",
+   "openapi/_original/semantic-api-openapi.yml",
+   "openapi/_original/times-tags-v3-openapi.yml",
+   "openapi/_original/timeswire-v3-openapi.yml",
+   "openapi/_original/top-stories-v2-openapi.yml"
+  ]
+ },
+ {
+  "slug": "newscred",
+  "specs": [
+   "openapi/_original/newscred-cmp-open-api-openapi.json",
+   "openapi/_original/newscred-welcome-open-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "newtqnia",
+  "specs": [
+   "openapi/_original/newtqnia-daily-digest-api.yaml",
+   "openapi/_original/newtqnia-daily-digest-api_2.yaml"
+  ]
+ },
+ {
+  "slug": "nthu",
+  "specs": [
+   "openapi/_original/nthu-data-api.yaml"
+  ]
+ },
+ {
+  "slug": "ntu",
+  "specs": [
+   "openapi/_original/ntu-drntu-data.yaml",
+   "openapi/_original/ntu-drntu-repo-oai.yaml",
+   "openapi/_original/ntu-drntu-repo-rest.yaml"
+  ]
+ },
+ {
+  "slug": "open-library",
+  "specs": [
+   "openapi/_original/open-library-openapi.yml"
+  ]
+ },
+ {
+  "slug": "openweb",
+  "specs": [
+   "openapi/_original/openweb-export-api-readme-slices.json",
+   "openapi/_original/openweb-moderation-policy-openapi.yml",
+   "openapi/_original/openweb-moderation-policy-readme-slices.json",
+   "openapi/_original/openweb-publisher-authentication-api-readme-slices.json",
+   "openapi/_original/openweb-seo-service-openapi.yml",
+   "openapi/_original/openweb-seo-service-readme-slices.json",
+   "openapi/_original/openweb-single-sign-on-api-readme-slices.json",
+   "openapi/_original/openweb-top-comments-api-readme-slices.json",
+   "openapi/_original/openweb-trending-articles-api-readme-slices.json"
+  ]
+ },
+ {
+  "slug": "paragraph",
+  "specs": [
+   "openapi/_original/paragraph-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "pennsylvania-state-university",
+  "specs": [
+   "openapi/_original/pennsylvania-state-university-researcher-metadata.yaml",
+   "openapi/_original/pennsylvania-state-university-scholarsphere.yaml"
+  ]
+ },
+ {
+  "slug": "permutive",
+  "specs": [
+   "openapi/_original/permutive-cohorts-api-openapi-original.json",
+   "openapi/_original/permutive-cohorts-api-openapi.yml",
+   "openapi/_original/permutive-events-api-openapi-original.json",
+   "openapi/_original/permutive-events-api-openapi.yml",
+   "openapi/_original/permutive-identity-api-openapi-original.json",
+   "openapi/_original/permutive-identity-api-openapi.yml",
+   "openapi/_original/permutive-openapi.yml",
+   "openapi/_original/permutive-segmentation-api-openapi-original.json",
+   "openapi/_original/permutive-segmentation-api-openapi.yml",
+   "openapi/_original/permutive-taxonomy-api-openapi-original.json",
+   "openapi/_original/permutive-taxonomy-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "posit",
+  "specs": [
+   "openapi/_original/posit-connect-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "postiz",
+  "specs": [
+   "openapi/_original/postiz-openapi.yml",
+   "openapi/_original/postiz-platform-swagger-openapi.json",
+   "openapi/_original/postiz-public-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "prorataai",
+  "specs": [
+   "openapi/_original/prorataai-openapi.json"
+  ]
+ },
+ {
+  "slug": "publer",
+  "specs": [
+   "openapi/_original/publer-openapi.yml"
+  ]
+ },
+ {
+  "slug": "publora",
+  "specs": [
+   "openapi/_original/publora-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "rakuten",
+  "specs": [
+   "openapi/_original/rakuten-openapi.yml"
+  ]
+ },
+ {
+  "slug": "ruby",
+  "specs": [
+   "openapi/_original/rubygems-registry-openapi.yml"
+  ]
+ },
+ {
+  "slug": "scope3",
+  "specs": [
+   "openapi/_original/scope3-ai-openapi-original.yml",
+   "openapi/_original/scope3-buyer-openapi-original.yml",
+   "openapi/_original/scope3-measurement-openapi.yml",
+   "openapi/_original/scope3-storefront-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "sharethis",
+  "specs": [
+   "openapi/_original/sharethis-platform-api.json"
+  ]
+ },
+ {
+  "slug": "snu",
+  "specs": [
+   "openapi/_original/snu-kossda-oai-pmh-openapi-original.yml",
+   "openapi/_original/snu-kossda-oai-pmh-openapi.yml",
+   "openapi/_original/snu-s-space-oai-pmh-openapi-original.yml",
+   "openapi/_original/snu-s-space-oai-pmh-openapi.yml",
+   "openapi/_original/snu-s-space-opensearch-openapi-original.yml",
+   "openapi/_original/snu-s-space-opensearch-openapi.yml"
+  ]
+ },
+ {
+  "slug": "spredfast",
+  "specs": [
+   "openapi/_original/spredfast-analytics-api-openapi.json",
+   "openapi/_original/spredfast-analytics-api-openapi.yml",
+   "openapi/_original/spredfast-conversations-api-openapi.json",
+   "openapi/_original/spredfast-conversations-api-v1-openapi.json",
+   "openapi/_original/spredfast-conversations-api-v1-openapi.yml",
+   "openapi/_original/spredfast-crm-api-openapi.json",
+   "openapi/_original/spredfast-crm-api-openapi.yml",
+   "openapi/_original/spredfast-custom-crm-callback-api-openapi.json",
+   "openapi/_original/spredfast-custom-crm-callback-api-openapi.yml",
+   "openapi/_original/spredfast-experiences-stream-api-openapi.json",
+   "openapi/_original/spredfast-experiences-stream-api-openapi.yml",
+   "openapi/_original/spredfast-introspection-api-openapi.json",
+   "openapi/_original/spredfast-introspection-api-openapi.yml",
+   "openapi/_original/spredfast-labelsets-api-openapi.json",
+   "openapi/_original/spredfast-labelsets-api-openapi.yml",
+   "openapi/_original/spredfast-notification-api-openapi.json",
+   "openapi/_original/spredfast-notification-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "springer-nature",
+  "specs": [
+   "openapi/_original/springer-nature-meta-openapi.yml",
+   "openapi/_original/springer-nature-openaccess-openapi.yml"
+  ]
+ },
+ {
+  "slug": "stanford",
+  "specs": [
+   "openapi/_original/stanford-dor-services-api-openapi.yml",
+   "openapi/_original/stanford-preservation-catalog-api-openapi.yml",
+   "openapi/_original/stanford-sdr-api-openapi.yml",
+   "openapi/_original/stanford-suri-api-openapi.yml",
+   "openapi/_original/stanford-technical-metadata-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "taylors",
+  "specs": [
+   "openapi/_original/taylors-library-rest.yaml"
+  ]
+ },
+ {
+  "slug": "techrepublic",
+  "specs": [
+   "openapi/_original/techrepublic-wordpress-rest-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "the-new-york-times",
+  "specs": [
+   "openapi/_original/new-york-times-archive-openapi-original.yml",
+   "openapi/_original/new-york-times-article-search-openapi-original.yml",
+   "openapi/_original/new-york-times-movie-review-openapi-original.yml",
+   "openapi/_original/new-york-times-semantic-openapi-original.yml",
+   "openapi/_original/new-york-times-times-newswire-openapi-original.yml",
+   "openapi/_original/new-york-times-times-tags-openapi-original.yml",
+   "openapi/_original/new-york-times-top-stories-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "threads-api",
+  "specs": [
+   "openapi/_original/threads-api-openapi.yml",
+   "openapi/_original/threads-api.yml"
+  ]
+ },
+ {
+  "slug": "trove",
+  "specs": [
+   "openapi/_original/trove-api-v3.yaml",
+   "openapi/_original/trove-openapi.yml"
+  ]
+ },
+ {
+  "slug": "tsinghua",
+  "specs": [
+   "openapi/_original/tsinghua-identity-federation.yaml",
+   "openapi/_original/tsinghua-tuna-iso-catalog.yaml",
+   "openapi/_original/tsinghua-tuna-mirror-status.yaml"
+  ]
+ },
+ {
+  "slug": "ubc",
+  "specs": [
+   "openapi/_original/ubc-abacus-dataverse.yaml"
+  ]
+ },
+ {
+  "slug": "uc-davis",
+  "specs": [
+   "openapi/_original/uc-davis-aggie-experts.json",
+   "openapi/_original/uc-davis-dams.json",
+   "openapi/_original/uc-davis-peaks.yaml"
+  ]
+ },
+ {
+  "slug": "ucla",
+  "specs": [
+   "openapi/_original/ucla-myucla-menu-data-openapi.yml",
+   "openapi/_original/ucla-sis-classes-openapi.yml",
+   "openapi/_original/ucla-sis-courses-openapi.yml",
+   "openapi/_original/ucla-sis-dictionary-openapi.yml",
+   "openapi/_original/ucla-sis-production-calendar-jobs-openapi.yml",
+   "openapi/_original/ucla-sis-verify-connectivity-openapi.yml",
+   "openapi/_original/ucla-weather-openapi.yml"
+  ]
+ },
+ {
+  "slug": "uclouvain",
+  "specs": [
+   "openapi/_original/uclouvain-orthanc-api.json"
+  ]
+ },
+ {
+  "slug": "ucsb",
+  "specs": [
+   "openapi/_original/BARC-ClassCodes.yaml",
+   "openapi/_original/PS-Spec-FAU2020_0.yaml",
+   "openapi/_original/academicprograms-v1.1.out_.api_.yaml",
+   "openapi/_original/barcquartercalendar-v1.out_.api__0_0_0.yaml",
+   "openapi/_original/barcstudents-v1_0_0.yaml",
+   "openapi/_original/courses-v1.out_.api_.yaml",
+   "openapi/_original/curriculums-v3_0_0.yaml",
+   "openapi/_original/deptcourses-v1.2out.api__1.yaml",
+   "openapi/_original/employee-job-2.yaml",
+   "openapi/_original/events-v1.api_.out_.yaml",
+   "openapi/_original/gmc-department-accounts_0.yaml",
+   "openapi/_original/gradapplverifications-v1.yaml",
+   "openapi/_original/gradprograms-v1.out_.api_.yaml",
+   "openapi/_original/lookups-v1.6.out_.api__0.yaml",
+   "openapi/_original/mtdaccess-v1.out_.api-2.yaml",
+   "openapi/_original/quartercalendar-v1-api.ucsb_.edu_.yaml",
+   "openapi/_original/registrations-v2_0.yaml",
+   "openapi/_original/rosters-v1.out_.api_.yaml",
+   "openapi/_original/schedules-v1.drupal.yaml",
+   "openapi/_original/schedules-v1.out_.api_.yaml",
+   "openapi/_original/students-v2.out_.api__1.yaml",
+   "openapi/_original/ucsb-academic-curriculums-openapi.yml",
+   "openapi/_original/ucsb-academic-graduate-programs-openapi.yml",
+   "openapi/_original/ucsb-academic-quarter-calendar-openapi.yml",
+   "openapi/_original/ucsb-barc-quarter-calendar-openapi.yml",
+   "openapi/_original/ucsb-barc-students-openapi.yml",
+   "openapi/_original/ucsb-clas-schedules-openapi.yml",
+   "openapi/_original/ucsb-classcode-lookup-service-openapi.yml",
+   "openapi/_original/ucsb-department-chartfield-openapi.yml",
+   "openapi/_original/ucsb-department-course-extract-openapi.yml",
+   "openapi/_original/ucsb-employee-job-openapi.yml",
+   "openapi/_original/ucsb-events-openapi.yml",
+   "openapi/_original/ucsb-grad-application-verifications-openapi.yml",
+   "openapi/_original/ucsb-mtd-access-openapi.yml",
+   "openapi/_original/ucsb-peoplesoft-fau-combination-service-openapi.yml",
+   "openapi/_original/ucsb-student-academic-programs-openapi.yml",
+   "openapi/_original/ucsb-student-basic-info-openapi.yml",
+   "openapi/_original/ucsb-student-courses-openapi.yml",
+   "openapi/_original/ucsb-student-record-code-lookups-openapi.yml",
+   "openapi/_original/ucsb-student-registrations-openapi.yml",
+   "openapi/_original/ucsb-student-rosters-openapi.yml",
+   "openapi/_original/ucsb-student-schedules-openapi.yml"
+  ]
+ },
+ {
+  "slug": "ukm",
+  "specs": [
+   "openapi/_original/ukm-ejournal-oai-pmh-openapi.yml",
+   "openapi/_original/ukm-ejournal-oai-pmh-openapi_2.yml",
+   "openapi/_original/ukm-identity-federation-openapi.yml",
+   "openapi/_original/ukm-identity-federation-openapi_2.yml",
+   "openapi/_original/ukm-ptsl-digital-oai-pmh-openapi.yml",
+   "openapi/_original/ukm-ptsl-digital-oai-pmh-openapi_2.yml",
+   "openapi/_original/ukm-web-content-rest-openapi.yml",
+   "openapi/_original/ukm-web-content-rest-openapi_2.yml"
+  ]
+ },
+ {
+  "slug": "universitat-hamburg",
+  "specs": [
+   "openapi/_original/universitat-hamburg-zfdm-repository-openapi.yml",
+   "openapi/_original/universitat-hamburg-zfdm-repository-openapi_2.yml"
+  ]
+ },
+ {
+  "slug": "university-of-amsterdam",
+  "specs": [
+   "openapi/_original/university-of-amsterdam-llm-gateway-openapi.json",
+   "openapi/_original/university-of-amsterdam-llm-gateway-openapi_2.json"
+  ]
+ },
+ {
+  "slug": "university-of-cambridge",
+  "specs": [
+   "openapi/_original/university-of-cambridge-lookup.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-freiburg",
+  "specs": [
+   "openapi/_original/university-of-freiburg-freidok-plus-json-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "university-of-gothenburg",
+  "specs": [
+   "openapi/_original/university-of-gothenburg-karp-api-openapi.json",
+   "openapi/_original/university-of-gothenburg-karp-search-api-openapi.json",
+   "openapi/_original/university-of-gothenburg-korp-api-openapi.yml",
+   "openapi/_original/university-of-gothenburg-metadata-api-openapi.json",
+   "openapi/_original/university-of-gothenburg-mink-api-openapi.json",
+   "openapi/_original/university-of-gothenburg-sparv-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "university-of-groningen",
+  "specs": [
+   "openapi/_original/university-of-groningen-oai-pmh-openapi.yml",
+   "openapi/_original/university-of-groningen-oai-pmh.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-helsinki",
+  "specs": [
+   "openapi/_original/university-of-helsinki-contact-search-api-openapi.json",
+   "openapi/_original/university-of-helsinki-course-pages-cms-openapi.json",
+   "openapi/_original/university-of-helsinki-course-pages-cms-openapi.yml",
+   "openapi/_original/university-of-helsinki-dawa-sync-api-openapi.json",
+   "openapi/_original/university-of-helsinki-employeeinformationapi-openapi.json",
+   "openapi/_original/university-of-helsinki-employeeinformationapi-openapi.yml",
+   "openapi/_original/university-of-helsinki-finbif-laji-openapi.json",
+   "openapi/_original/university-of-helsinki-finbif-laji-openapi.yml",
+   "openapi/_original/university-of-helsinki-general-efecte-api-openapi.json",
+   "openapi/_original/university-of-helsinki-helsinki-fi-content-openapi.json",
+   "openapi/_original/university-of-helsinki-helsinki-fi-content-openapi.yml",
+   "openapi/_original/university-of-helsinki-hy-building-api-openapi.json",
+   "openapi/_original/university-of-helsinki-hy-organisation-api-openapi.json",
+   "openapi/_original/university-of-helsinki-network-registry-api-openapi.json",
+   "openapi/_original/university-of-helsinki-persongroup-openapi.json",
+   "openapi/_original/university-of-helsinki-persongroup-openapi.yml",
+   "openapi/_original/university-of-helsinki-serviceapi-openapi.json",
+   "openapi/_original/university-of-helsinki-serviceapi-openapi.yml",
+   "openapi/_original/university-of-helsinki-sovellussalkku-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "university-of-illinois-urbana-champaign",
+  "specs": [
+   "openapi/_original/university-of-illinois-urbana-champaign-rokwire-core.yaml",
+   "openapi/_original/university-of-illinois-urbana-champaign-rokwire-gateway.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-lisbon",
+  "specs": [
+   "openapi/_original/university-of-lisbon-fenixedu-academic-api.yml"
+  ]
+ },
+ {
+  "slug": "university-of-los-andes-colombia",
+  "specs": [
+   "openapi/_original/university-of-los-andes-colombia-revistas-oai-pmh-openapi.yml",
+   "openapi/_original/university-of-los-andes-colombia-revistas-oai-pmh-openapi_2.yml"
+  ]
+ },
+ {
+  "slug": "university-of-macau",
+  "specs": [
+   "openapi/_original/university-of-macau-open-data-api-original.yml"
+  ]
+ },
+ {
+  "slug": "university-of-manchester",
+  "specs": [
+   "openapi/_original/university-of-manchester-pure-rest.yaml",
+   "openapi/_original/university-of-manchester-pure-rest_2.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-maryland-college-park",
+  "specs": [
+   "openapi/_original/university-of-maryland-college-park-libraries-website-tools-openapi.json"
+  ]
+ },
+ {
+  "slug": "university-of-michigan-ann-arbor",
+  "specs": [
+   "openapi/_original/university-of-michigan-ann-arbor-deep-blue-documents-oai-pmh-openapi.yml"
+  ]
+ },
+ {
+  "slug": "university-of-ottawa",
+  "specs": [
+   "openapi/_original/university-of-ottawa-ruor-dspace-rest-openapi.yml",
+   "openapi/_original/university-of-ottawa-ruor-dspace-rest-openapi_2.yml",
+   "openapi/_original/university-of-ottawa-ruor-oai-pmh-openapi.yml",
+   "openapi/_original/university-of-ottawa-ruor-oai-pmh-openapi_2.yml",
+   "openapi/_original/university-of-ottawa-www-drupal-jsonapi-openapi.yml",
+   "openapi/_original/university-of-ottawa-www-drupal-jsonapi-openapi_2.yml"
+  ]
+ },
+ {
+  "slug": "university-of-pennsylvania",
+  "specs": [
+   "openapi/_original/university-of-pennsylvania-penn-courses.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-texas-at-austin",
+  "specs": [
+   "openapi/_original/university-of-texas-at-austin-tapis-apps-openapi-original.yml",
+   "openapi/_original/university-of-texas-at-austin-tapis-files-openapi-original.yml",
+   "openapi/_original/university-of-texas-at-austin-tapis-jobs-openapi-original.yml",
+   "openapi/_original/university-of-texas-at-austin-tapis-notifications-openapi-original.yml",
+   "openapi/_original/university-of-texas-at-austin-tapis-systems-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "university-of-tokyo",
+  "specs": [
+   "openapi/_original/university-of-tokyo-archives-portal-openapi.yml",
+   "openapi/_original/university-of-tokyo-oai-pmh-openapi.yml"
+  ]
+ },
+ {
+  "slug": "university-of-vienna",
+  "specs": [
+   "openapi/_original/university-of-vienna-phaidra-api.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-warsaw",
+  "specs": [
+   "openapi/_original/university-of-warsaw-jaskier-api.json",
+   "openapi/_original/university-of-warsaw-sp4eu-api.json",
+   "openapi/_original/university-of-warsaw-usos-api.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-washington",
+  "specs": [
+   "openapi/_original/university-of-washington-groups-web-service-v3.yaml",
+   "openapi/_original/university-of-washington-idcard-web-service.yaml",
+   "openapi/_original/university-of-washington-identity-registry-web-service-v2.yaml",
+   "openapi/_original/university-of-washington-identity-registry-web-service-v3.yaml",
+   "openapi/_original/university-of-washington-student-web-service.yaml",
+   "openapi/_original/university-of-washington-token-authentication-web-service-v2.yaml"
+  ]
+ },
+ {
+  "slug": "unpaywall",
+  "specs": [
+   "openapi/_original/unpaywall-openapi.yml"
+  ]
+ },
+ {
+  "slug": "unsw-sydney",
+  "specs": [
+   "openapi/_original/unsw-sydney-unsworks-dspace-openapi.yml",
+   "openapi/_original/unsw-sydney-unsworks-oai-pmh-openapi.yml"
+  ]
+ },
+ {
+  "slug": "upload-post",
+  "specs": [
+   "openapi/_original/upload-post-openapi.yml"
+  ]
+ },
+ {
+  "slug": "urantia-papers",
+  "specs": [
+   "openapi/_original/urantia-papers-openapi.json"
+  ]
+ },
+ {
+  "slug": "usecommune",
+  "specs": [
+   "openapi/_original/usecommune-openapi.json",
+   "openapi/_original/usecommune-openapi.yml"
+  ]
+ },
+ {
+  "slug": "utrecht",
+  "specs": [
+   "openapi/_original/utrecht-yoda-core.yaml",
+   "openapi/_original/utrecht-yoda-datarequest.yaml"
+  ]
+ },
+ {
+  "slug": "uwa",
+  "specs": [
+   "openapi/_original/uwa-oai-pmh-openapi.yml",
+   "openapi/_original/uwa-oai-pmh-openapi_2.yml"
+  ]
+ },
+ {
+  "slug": "vanderbilt",
+  "specs": [
+   "openapi/_original/vanderbilt-television-news-archive-openapi.yml",
+   "openapi/_original/vanderbilt-television-news-archive-openapi_2.yml"
+  ]
+ },
+ {
+  "slug": "versusgame",
+  "specs": [
+   "openapi/_original/versusgame-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "victoria-university-of-wellington",
+  "specs": [
+   "openapi/_original/victoria-university-of-wellington-identity-federation.yaml",
+   "openapi/_original/victoria-university-of-wellington-institutional-repository.yaml",
+   "openapi/_original/victoria-university-of-wellington-website-globalobject.yaml"
+  ]
+ },
+ {
+  "slug": "wageningen-university-research",
+  "specs": [
+   "openapi/_original/wageningen-university-research-agrodatacube-v1.yaml",
+   "openapi/_original/wageningen-university-research-agrodatacube-v2.yaml",
+   "openapi/_original/wageningen-university-research-library-oai-pmh-openapi.yml",
+   "openapi/_original/wageningen-university-research-library-oai-pmh.yaml"
+  ]
+ },
+ {
+  "slug": "warner-music-group",
+  "specs": [
+   "openapi/_original/warner-music-group-licensing-openapi.yml"
+  ]
+ },
+ {
+  "slug": "webflow-api-and-documentation-webflow",
+  "specs": [
+   "openapi/_original/webflow-collections-openapi.yml",
+   "openapi/_original/webflow-data-api-openapi.yml",
+   "openapi/_original/webflow-items-openapi.yml",
+   "openapi/_original/webflow-sites-openapi.yml",
+   "openapi/_original/webflow-webhooks-openapi.yml"
+  ]
+ },
+ {
+  "slug": "worldcat",
+  "specs": [
+   "openapi/_original/worldcat-entities-api.yml",
+   "openapi/_original/worldcat-knowledge-base-api.yml",
+   "openapi/_original/worldcat-metadata-api.yml",
+   "openapi/_original/worldcat-search-api.yml"
+  ]
+ },
+ {
+  "slug": "yale",
+  "specs": [
+   "openapi/_original/yale-dataverse-openapi.yml",
+   "openapi/_original/yale-digital-collections-iiif-openapi.yml",
+   "openapi/_original/yale-identity-federation-openapi.yml"
+  ]
+ },
+ {
+  "slug": "yarnhen",
+  "specs": [
+   "openapi/_original/yarnhen-openapi.yml",
+   "openapi/_original/yarnhen-openapi_2.yml",
+   "openapi/_original/yarnhen-openapi_3.yml"
+  ]
+ },
+ {
+  "slug": "yawplet",
+  "specs": [
+   "openapi/_original/yawplet-openapi.yml",
+   "openapi/_original/yawplet-openapi_2.yml",
+   "openapi/_original/yawplet-openapi_3.yml"
+  ]
+ }
+]

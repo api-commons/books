@@ -1,0 +1,47 @@
+context: books
+name: Books and Publishing
+intro: >-
+  The common books vocabulary -- the books (titles and editions) publishers, retailers and
+  libraries list, and the authors who wrote them -- distilled from the APIs that already exist.
+  Scholarly works belong to research repositories.
+tags: [Books, Book Publishing, Ebooks, eBooks, Library, Libraries, Audiobooks, Publishing]
+
+envelope: [_links, _pagination, _results, data, success, errors, warnings, count, total, page, meta, links,
+           value, results, next, previous, has_more, message, status_code, ids, next_page, previous_page,
+           page_info, cursor, total_count, per_page, total_pages, current_page, object, url, docs, numFound, kind, totalItems]
+
+common_fields:
+  id: [uuid, guid, object_id, record_id, key, external_id]
+  name: [title, display_name, full_title]
+  description: [summary, synopsis, notes, overview, blurb]
+  created_at: [created, date_created]
+  updated_at: [updated, last_modified, modified]
+
+concepts:
+  book:
+    segments: [books, book, titles, title@books|catalog, volumes, editions, edition, isbn, works@books|library|openlibrary, products@books|publishing, ebooks, audiobooks]
+    aliases:
+      isbn: [isbn_13, isbn13, isbn_10, isbn10, industry_identifiers, identifiers, ean]
+      authors: [author, author_name, contributors, author_key, creators, by_statement]
+      published_at: [publish_date, published_date, publication_date, first_publish_year, pubdate, release_date]
+      publisher: [publishers, imprint, publisher_name]
+      language: [languages, lang]
+      page_count: [number_of_pages, pages, num_pages, pagecount]
+      cover_url: [cover, image, image_url, thumbnail, cover_image, image_links]
+      subjects: [subject, categories, genres, bisac]
+  # book_author was measured and dropped: 3 providers, no shared property.
+
+exclude:
+  book:
+    dow-jones: /newsletter/editions are newsletter issues
+duplicates:
+  eventwren: [hagglebee, yarnhen, yawplet]
+
+findings:
+  - "A book agrees only on an id and a title. ISBN, authors, publisher and publication date are each
+    carried by a minority: Google Books nests them under `volumeInfo`, library systems model
+    titles as holdings, and retailers as products."
+decisions:
+  - "Titles, volumes, editions, ebooks, audiobooks and works beneath a library path are books."
+  - "Authors were measured and dropped."
+  - "Duplicates merged: the eventwren family."

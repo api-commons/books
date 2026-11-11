@@ -1,0 +1,16 @@
+provider: trove
+apis_io: https://apis.io/providers/trove/
+context: books
+generated: '2026-11-11'
+concepts:
+  book:
+    path_segment:
+    - titles
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/trove-api-v3.yaml#GET /v3/gazette/titles
+    - openapi/_original/trove-api-v3.yaml#GET /v3/magazine/titles
+    - openapi/_original/trove-api-v3.yaml#GET /v3/newspaper/titles
+    - openapi/_original/trove-openapi.yml#GET /v3/gazette/titles
+    - openapi/_original/trove-openapi.yml#GET /v3/magazine/titles

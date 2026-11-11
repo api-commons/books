@@ -1,0 +1,19 @@
+provider: iit-kanpur
+apis_io: https://apis.io/providers/iit-kanpur/
+context: books
+generated: '2026-11-11'
+concepts:
+  book:
+    path_segment:
+    - titles
+    properties:
+      id: external_id
+      description: notes
+      publisher: publisher_name
+    core_coverage: 0.5
+    evidence:
+    - openapi/_original/iit-kanpur-library-rest.yaml#DELETE /erm/eholdings/{provider}/titles/{title_id}
+    - openapi/_original/iit-kanpur-library-rest.yaml#GET /erm/eholdings/{provider}/titles
+    - openapi/_original/iit-kanpur-library-rest.yaml#GET /erm/eholdings/{provider}/titles/{title_id}
+    - openapi/_original/iit-kanpur-library-rest.yaml#POST /erm/eholdings/{provider}/titles
+    - openapi/_original/iit-kanpur-library-rest.yaml#PUT /erm/eholdings/{provider}/titles/{title_id}

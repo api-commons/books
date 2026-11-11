@@ -1,0 +1,12 @@
+provider: urantia-papers
+apis_io: https://apis.io/providers/urantia-papers/
+context: books
+generated: '2026-11-11'
+concepts:
+  book:
+    path_segment:
+    - books
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/urantia-papers-openapi.json#GET /bible/books

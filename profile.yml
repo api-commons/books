@@ -1,0 +1,170 @@
+context: books
+name: Books and Publishing
+generated: '2026-11-11'
+version: 0.1.0-draft.20261111
+status: draft
+cohort:
+  tags:
+  - Books
+  - Book Publishing
+  - Ebooks
+  - eBooks
+  - Library
+  - Libraries
+  - Audiobooks
+  - Publishing
+  providers_with_harvested_openapi: 132
+thresholds:
+  core: 0.5
+  extended: 0.2
+  min_providers: 3
+excluded:
+  book:
+    dow-jones: /newsletter/editions are newsletter issues
+duplicates:
+  eventwren:
+  - hagglebee
+  - yarnhen
+  - yawplet
+shared_specs: {}
+concepts:
+  book:
+    segments_seen:
+      titles: 5
+      books: 5
+      isbn: 1
+      volumes: 1
+      book: 1
+      editions: 1
+    providers_exposing: 12
+    providers_with_readable_schema: 10
+    operations:
+    - operation: GET collection
+      providers: 10
+      share: 0.833
+      tier: core
+    - operation: GET item
+      providers: 8
+      share: 0.667
+      tier: core
+    - operation: POST collection
+      providers: 2
+      share: 0.167
+      tier: long-tail
+    - operation: UPDATE item
+      providers: 2
+      share: 0.167
+      tier: long-tail
+    - operation: DELETE item
+      providers: 1
+      share: 0.083
+      tier: long-tail
+    properties:
+    - name: id
+      tier: core
+      providers: 6
+      share: 0.6
+      type: string
+      spellings:
+      - id
+      - external_id
+      - '@id'
+    - name: name
+      tier: core
+      providers: 6
+      share: 0.6
+      type: string
+      spellings:
+      - name
+      - title
+    - name: description
+      tier: extended
+      providers: 4
+      share: 0.4
+      type: string
+      spellings:
+      - description
+      - notes
+      - overview
+      - synopsis
+    - name: authors
+      tier: extended
+      providers: 3
+      share: 0.3
+      type: array
+      spellings:
+      - authors
+    - name: language
+      tier: extended
+      providers: 3
+      share: 0.3
+      type: array
+      spellings:
+      - language
+      - languages
+    - name: publisher
+      tier: extended
+      providers: 3
+      share: 0.3
+      type: string
+      spellings:
+      - publisher
+      - publisher_name
+    - name: subjects
+      tier: extended
+      providers: 3
+      share: 0.3
+      type: array
+      spellings:
+      - subjects
+      - subject
+    - name: type
+      tier: extended
+      providers: 3
+      share: 0.3
+      type: array
+      spellings:
+      - type
+      - '@type'
+    long_tail_count: 97
+    long_tail_sample:
+    - cover_url
+    - first_author
+    - first_editor
+    - isbn
+    - media_type
+    - monograph_edition
+    - monograph_volume
+    - page_count
+    - publication_type
+    - abbr
+    - access_info
+    - access_type
+    - alternate_resource_names
+    - biblio_id
+    - bill_text_version_code
+    - bill_text_version_name
+    - binding
+    - book_code
+    - book_name
+    - book_order
+    - bookshelves
+    - canon
+    - chapter_count
+    - characters
+    - class
+    - copyright
+    - country
+    - coverage
+    - coverage_depth
+    - created_at
+    - custom_coverage
+    - date
+    - date_first_issue_online
+    - date_last_issue_online
+    - date_monograph_published
+    - date_monograph_published_online
+    - date_monograph_published_print
+    - date_published
+    - dewey_decimal
+    - dimensions

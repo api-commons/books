@@ -1,0 +1,45 @@
+aid: common-books
+name: Books and Publishing
+type: Common
+description: 'The common Books and Publishing vocabulary, distilled from the harvested OpenAPI of 132 providers
+  in APIs.io: shared operations, JSON Schema per concept with measured adoption, and a crosswalk from the common
+  names to each provider''s own.'
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Application Programming Interface
+- API
+- Books
+- Book Publishing
+- Ebooks
+- eBooks
+- Common Schema
+created: '2026-11-11'
+modified: '2026-11-11'
+url: https://raw.githubusercontent.com/api-commons/books/main/apis.yml
+specificationVersion: '0.20'
+apis:
+- aid: common-books:books
+  name: Common Books and Publishing Interface
+  description: The Books and Publishing interface the market already shares, measured.
+  humanURL: https://github.com/api-commons/books
+  tags:
+  - Books
+  - Book Publishing
+  properties:
+  - type: OpenAPI
+    url: https://raw.githubusercontent.com/api-commons/books/main/openapi.yml
+  - type: Profile
+    url: https://raw.githubusercontent.com/api-commons/books/main/profile.yml
+  - type: Adopters
+    url: https://raw.githubusercontent.com/api-commons/books/main/adopters.yml
+  - type: Rules
+    url: https://raw.githubusercontent.com/api-commons/schema-commons/main/ruleset/schema-commons-naming.yaml
+  - type: JSONSchema
+    name: book
+    url: https://raw.githubusercontent.com/api-commons/books/main/schema/book.json
+common:
+- type: License
+  url: https://raw.githubusercontent.com/api-commons/books/main/LICENSE
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com

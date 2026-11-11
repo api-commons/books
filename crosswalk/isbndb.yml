@@ -1,0 +1,25 @@
+provider: isbndb
+apis_io: https://apis.io/providers/isbndb/
+context: books
+generated: '2026-11-11'
+concepts:
+  book:
+    path_segment:
+    - books
+    - book
+    properties:
+      name: title
+      description:
+      - overview
+      - synopsis
+      authors: authors
+      language: language
+      publisher: publisher
+      subjects: subjects
+    core_coverage: 0.5
+    evidence:
+    - openapi/_original/openapi-2026-06-13-as-archived.json#GET /book/{isbn}
+    - openapi/_original/openapi-2026-06-13-as-archived.json#GET /books/{query}
+    - openapi/_original/openapi-2026-06-13-as-archived.json#GET /search/books
+    - openapi/_original/openapi-2026-06-13-as-archived.json#POST /books
+    - openapi/_original/openapi.json#GET /book/{isbn}

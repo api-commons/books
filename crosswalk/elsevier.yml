@@ -1,0 +1,13 @@
+provider: elsevier
+apis_io: https://apis.io/providers/elsevier/
+context: books
+generated: '2026-11-11'
+concepts:
+  book:
+    path_segment:
+    - isbn
+    properties: {}
+    core_coverage: null
+    evidence:
+    - openapi/_original/elsevier-metadata-swagger.json#GET /nonserial/title/isbn/{isbn}
+    - openapi/_original/elsevier-sciencedirect-swagger.json#GET /nonserial/title/isbn/{isbn}
